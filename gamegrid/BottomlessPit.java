@@ -5,10 +5,7 @@
  */
 package gamegrid;
 
-/**
- *
- * @author raphaelr
- */
+
 public class BottomlessPit extends Opponent{
     public BottomlessPit(){
         this.strength = Integer.MAX_VALUE;
