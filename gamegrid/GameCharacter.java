@@ -5,10 +5,7 @@
  */
 package gamegrid;
 
-/**
- *
- * @author raphaelr
- */
+
 public abstract class GameCharacter implements IGameCharacter{
     protected int positionX;
     protected int positionY;
