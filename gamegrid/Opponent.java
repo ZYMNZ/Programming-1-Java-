@@ -5,10 +5,7 @@
  */
 package gamegrid;
 
-/**
- *
- * @author raphaelr
- */
+
 public abstract class Opponent extends GameCharacter{
     protected String type;
     protected int health, strength; 
