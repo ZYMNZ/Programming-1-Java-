@@ -5,10 +5,7 @@
  */
 package gamegrid;
 
-/**
- *
- * @author raphaelr
- */
+
 public interface IGameCharacter {
     String move();
     void attack(GameCharacter gc);
