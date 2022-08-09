@@ -5,10 +5,7 @@
  */
 package gamegrid;
 
-/**
- *
- * @author raphaelr
- */
+
 public class Player extends GameCharacter {
     private String name;
     private int health, strength; 
