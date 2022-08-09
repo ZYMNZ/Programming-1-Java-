@@ -7,10 +7,7 @@ package gamegrid;
 
 import java.util.Random;
 
-/**
- *
- * @author raphaelr
- */
+
 public class Monster extends Opponent{
 
     public Monster() {
