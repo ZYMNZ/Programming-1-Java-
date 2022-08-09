@@ -7,10 +7,7 @@ package gamegrid;
 
 import java.util.Scanner;
 
-/**
- *
- * @author raphaelr
- */
+
 public class UserInputManager {
     public static String retrievePlayerMovementDirection(){
         Scanner sc = new Scanner(System.in);
